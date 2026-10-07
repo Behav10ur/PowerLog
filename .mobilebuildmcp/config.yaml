@@ -1,0 +1,5 @@
+schemaVersion: 1
+sessionDefaults:
+  projectPath: "./PowerLog.xcodeproj"
+  scheme: "PowerLog"
+  simulatorName: "iPhone 17"
